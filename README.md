@@ -6,7 +6,7 @@
 
 
 Grupo:
-- Ian Gabriel Braga Trinta ( igbt )
+- Ian Gabriel Braga Trinta ( igbt ) **Líder**
 - Gabriel Queiroz ( gqmv )
 - Luiz Eduardo Schmalz ( Lefvs )
 - Breno Santos ( baas)
